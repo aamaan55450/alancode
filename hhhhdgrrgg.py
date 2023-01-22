@@ -10,9 +10,9 @@ win.addshape('6f045d33b0df0a2044da157778b501862.gif')
 Turt.shape('Leopard_2_A5_der_Bundeswehr (1).gif')
 gag.shape('6f045d33b0df0a2044da157778b501862.gif')
 Turt.penup()
-gag.penup()
+gag.penup()       
 Turt.goto(-400,0)
-gag.goto(400,0)
+gag.goto(400,1)
 #############################start#################################
 def Turtjump():
     Turt.seth(90)
